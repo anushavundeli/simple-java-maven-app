@@ -1,11 +1,11 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
+ * Anusha technologies Tirupati!
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World!";
+    private static final String MESSAGE = "Anusha technologies Tirupati!";
 
     public App() {}
 
